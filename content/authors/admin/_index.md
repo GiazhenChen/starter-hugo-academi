@@ -39,7 +39,7 @@ education:
     - course: Bachelor of Laws in Laws
       institution: Wuhan University of Technology
       year: 2023
-    - course: Bachelor of Engineering in Artificial Intelligence
+    - course: Bachelor of Engineering in Marine Engineering
       institution: Wuhan University of Technology
       year: 2023
 
