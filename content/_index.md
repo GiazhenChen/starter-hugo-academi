@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: george chen
       image:
         filename: hero-academic.png
       cta:
@@ -241,16 +241,16 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: 1284682931@qq.com
       phone: 18871021080
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
-        city: Stanford
+        city: Beijing
         region: CA
         postcode: '94305'
-        country: United States
-        country_code: US
+        country: China
+        country_code: CHN
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
