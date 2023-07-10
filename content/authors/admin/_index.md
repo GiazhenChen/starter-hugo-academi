@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate of Mechanical Engineering  
+role: Research assistant in Steta Key Laboratory of Tribology Tsinghua University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Tsinghua University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Friction in the process of lubrication, water lubricated bearings, mechanical equipment in extreme conditions
 
 # Interests to show in About widget
 interests:
   - Friction
-  - Computational Linguistics
-  - Information Retrieval
+  - Lubrication and wear
+  - extreme condition
 
 # Education to show in About widget
 education:
@@ -36,12 +36,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Laws in Laws
+      institution: Wuhan University of Technology
+      year: 2023
+    - course: Bachelor of Engineering in Artificial Intelligence
+      institution: Wuhan University of Technology
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
