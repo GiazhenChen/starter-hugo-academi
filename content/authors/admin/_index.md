@@ -3,8 +3,8 @@
 title: JiazhenChen 陈佳镇
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jiazhen
+last_name: Chen
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate of Mechanical Engineering  
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Friction
   - Computational Linguistics
   - Information Retrieval
 
