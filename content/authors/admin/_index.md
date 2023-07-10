@@ -19,7 +19,7 @@ role: Research assistant in Steta Key Laboratory of Tribology Tsinghua Universit
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tsinghua University
-    url: https://www.stanford.edu/
+    url: http://sklt.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Friction in the process of lubrication, water lubricated bearings, mechanical equipment in extreme conditions
