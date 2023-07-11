@@ -189,7 +189,7 @@
       text: |-
       # Contact (add or remove contact options as necessary)
       email: test@example.org
-      phone: 888 888 88 88
+      phone: 888 
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
