@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "Tribology International Volume 187, September 2023, 108714"
 publication_short: ""
 
-abstract:Water-lubricated bearings are subject to abrasive wear, leading to performance degradation. Herein, the use of PTFE and UHMWPE fibers was investigated to improve surface tensile strength and explore wear mechanisms. Through finite element analysis and friction and wear experiments, it is hereby demonstrated that fiber reinforcement significantly improves surface tensile strength and reduces surface wear compared to non-reinforced materials, and the wear of the bronze plates is reduced as well. Meanwhile, fiber-reinforced composite materials suppress the development of wear in a certain amount of time and exhibit outstanding frictional performance.
+abstract: Water-lubricated bearings are subject to abrasive wear, leading to performance degradation. Herein, the use of PTFE and UHMWPE fibers was investigated to improve surface tensile strength and explore wear mechanisms. Through finite element analysis and friction and wear experiments, it is hereby demonstrated that fiber reinforcement significantly improves surface tensile strength and reduces surface wear compared to non-reinforced materials, and the wear of the bronze plates is reduced as well. Meanwhile, fiber-reinforced composite materials suppress the development of wear in a certain amount of time and exhibit outstanding frictional performance.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
