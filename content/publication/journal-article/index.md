@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Development of gradient structural composite for improving tribological performance of PU material in water-lubricated bearings"
 authors:
 - admin
 - Robert Ford
@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.triboint.2022.107876"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
