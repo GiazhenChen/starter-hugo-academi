@@ -26,9 +26,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Extreme Condition
+  - Lubrication and Wear
+  - Polymer Materials
+  - Engine lubrication
 
 # Education to show in About widget
 education:
