@@ -24,11 +24,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research assistan
-          company: National Engineering Research Center for Water Transport Safety
+          company: State Key Laboratory of Tribology in Advanced Equipment
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Beijing
+          date_start: '2023-02-20'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -36,13 +36,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Research assistan
+          company: National Engineering Research Center for Water Transport Safety
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2020-09-01'
+          date_end: '2023-06-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
