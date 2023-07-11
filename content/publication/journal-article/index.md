@@ -2,11 +2,14 @@
 title: "Development of gradient structural composite for improving tribological performance of PU material in water-lubricated bearings"
 authors:
 - admin
-- Robert Ford
+- Zhiwei Guo
+- Xuefei Li
+- Chengqing Yuan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- 
+date: "2022-08-19T00:00:00Z"
 doi: "https://doi.org/10.1016/j.triboint.2022.107876"
 
 # Schedule page publish date (NOT publication's date).
