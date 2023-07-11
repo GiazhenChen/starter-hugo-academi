@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Hello, I'm Jiazhen "George" Chen. Currently, I work as a research assistant at the State Key Laboratory for Friction and Wear at Tsinghua University. I am a member of Professor Dan Guo's research group. My research project aims to understand the impact of texture on the formation of PTFE transfer films. I am passionate about finding solutions to minimize energy loss due to friction and implementing improvements through the use of innovative materials. This description will be used as an introduction on my personal website. Your suggestions and feedback are welcome.
+Hello, I'm Jiazhen "George" Chen. Currently, I work as a research assistant at the State Key Laboratory for Friction and Wear at Tsinghua University. I am a member of Professor Dan Guo's research group. My research project aims to understand the impact of texture on the formation of PTFE transfer films. I am passionate about finding solutions to minimize energy loss due to friction and implementing improvements through the use of innovative materials. 
 {style="text-align: justify;"}
