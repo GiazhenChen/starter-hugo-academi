@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jiazhen Chen 陈佳镇
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jiazhen
+last_name: Chen
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assisstan of Steta Key Laboratory of Tribology Tsinghua University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Steta Key Laboratory of Tribology Tsinghua University
+    url: http://sklt.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
