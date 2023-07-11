@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Jiazhen "George" Chen. Currently, I work as a research assistant at the State Key Laboratory for Friction and Wear at Tsinghua University. I am a member of Professor Dan Guo's research group. My research project aims to understand the impact of texture on the formation of PTFE transfer films. I am passionate about finding solutions to minimize energy loss due to friction and implementing improvements through the use of innovative materials. This description will be used as an introduction on my personal website. Your suggestions and feedback are welcome.
 {style="text-align: justify;"}
