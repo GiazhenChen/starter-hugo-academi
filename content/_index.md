@@ -33,17 +33,17 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * tribological testing
+              * mechanism analysis
+              * data processing
         - title: Research assistan
           company: National Engineering Research Center for Water Transport Safety
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Wuhan
           date_start: '2020-09-01'
           date_end: '2023-06-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: The method of improving the performance of ship water-lubricated bearing is studied.
     design:
       columns: '2'
   - block: accomplishments
