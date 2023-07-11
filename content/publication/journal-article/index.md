@@ -78,3 +78,50 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
+---
+title: "另一篇文献标题"
+authors:
+- 作者1
+- 作者2
+author_notes:
+- "Contributed equally"
+- "Contributed equally"
+date: "2022-01-01T00:00:00Z"
+doi: "DOI编号"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2022-01-01T00:00:00Z"
+
+# Publication type.
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "期刊名称，卷数(期数)"
+publication_short: ""
+
+abstract: 这是另一篇文献的摘要。
+
+summary: 这是另一篇文献的摘要概述。
+
+tags:
+- 标签1
+- 标签2
+
+url_pdf: 文献的PDF链接
+url_code: 文献的代码链接
+url_dataset: 文献的数据集链接
+url_poster: 文献的海报链接
+url_project: 文献的项目链接
+url_slides: 文献的幻灯片链接
+url_source: 文献的来源链接
+url_video: 文献的视频链接
+
+image:
+  caption: '图片说明'
+  focal_point: ""
+  preview_only: false
+
+projects: []
+
+slides: ""
+---
