@@ -33,9 +33,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: Bachelor of Laws in Laws
       institution: Wuhan University of Technology
       year: 2023
