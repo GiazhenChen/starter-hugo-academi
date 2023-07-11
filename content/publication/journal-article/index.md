@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Insight into the wear properties of fiber fabric surface-enhanced composite under water lubrication"
 authors:
 - admin
-- Robert Ford
+- Zhiwei Guo
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- 
+- "Corresponding author"
+date: "2023-06-17T00:00:00Z"
+doi: "https://doi.org/10.1016/j.triboint.2023.108714"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Tribology International Volume 187, September 2023, 108714"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:Water-lubricated bearings are subject to abrasive wear, leading to performance degradation. Herein, the use of PTFE and UHMWPE fibers was investigated to improve surface tensile strength and explore wear mechanisms. Through finite element analysis and friction and wear experiments, it is hereby demonstrated that fiber reinforcement significantly improves surface tensile strength and reduces surface wear compared to non-reinforced materials, and the wear of the bronze plates is reduced as well. Meanwhile, fiber-reinforced composite materials suppress the development of wear in a certain amount of time and exhibit outstanding frictional performance.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
