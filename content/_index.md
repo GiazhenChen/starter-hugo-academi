@@ -39,7 +39,7 @@ sections:
         - title: Research assistan
           company: National Engineering Research Center for Water Transport Safety
           company_url: ''
-          company_logo: org-x
+          company_logo: whut
           location: Wuhan
           date_start: '2020-09-01'
           date_end: '2023-06-30'
