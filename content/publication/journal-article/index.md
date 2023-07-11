@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Tribology International Volume 176, December 2022, 107876"
 publication_short: ""
 
 abstract: Polymer materials have poor thermal conductivity and prone to aging at high temperatures. Severe wear occurs at material friction interfaces at high or locally high temperatures. In this study, gradient structural design for polyurethane was realized by adding high thermal-conductivity wire into water-lubricated bearing material. Tribological performance was evaluated by analysis of friction coefficients, wear microscopy, and average temperature during steady-state thermal simulation analysis. The results showed that metal wire effectively transferred heat and reduced sample temperature and the formed surface film effectively reduced the friction coefficient. These findings provided a new method for improving the thermal conductivity and wear resistance of water-lubricated bearing materials. The poor thermal conductivity of polymer bushing and the tribological performance of bearing is improved.
