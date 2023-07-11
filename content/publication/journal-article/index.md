@@ -2,7 +2,10 @@
 title: "Insight into the wear properties of fiber fabric surface-enhanced composite under water lubrication"
 authors:
 - admin
+- Xingxin Liang
 - Zhiwei Guo
+- Xuefei Li
+- Chengqing Yuan
 author_notes:
 - 
 - "Corresponding author"
