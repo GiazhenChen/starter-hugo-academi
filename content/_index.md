@@ -123,7 +123,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: 1284682931@qq.com
       phone: 18871021080
-      appointment_url: 'https://calendly.com'
       address:
         street: Qinghuayuan Subdistrict
         city: Beijing
