@@ -188,7 +188,7 @@
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: 1284682931@qq.com
       phone: 888 
       appointment_url: 'https://calendly.com'
       address:
