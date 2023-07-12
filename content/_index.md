@@ -53,7 +53,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -66,7 +66,7 @@ sections:
         exclude_past: false
         publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+      offset: 2
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
