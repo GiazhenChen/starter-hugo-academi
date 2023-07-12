@@ -26,7 +26,7 @@ sections:
         - title: Research assistan
           company: State Key Laboratory of Tribology in Advanced Equipment
           company_url: ''
-          company_logo: biao
+          company_logo: thu
           location: Beijing
           date_start: '2023-02-20'
           date_end: ''
