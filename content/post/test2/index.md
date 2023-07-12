@@ -3,6 +3,10 @@ title: Wear
 date: 2023-07-12T12:39:50.346Z
 draft: false
 featured: false
+authors:
+  - admin
+categories:
+  - a，b
 image:
   filename: qq图片20230712155827.png
   focal_point: Smart
