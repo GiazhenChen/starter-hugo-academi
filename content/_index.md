@@ -160,7 +160,7 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: chenjz@whut.edu.cn
-      phone: 
+      address:
         street: Qinghuayuan Subdistrict
         city: Beijing
         country: China
