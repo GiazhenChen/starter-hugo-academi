@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: Example Project
 tags:
-  - Water
+  - water lubrication bearings
 links:
   - icon: twitter
     icon_pack: fab
