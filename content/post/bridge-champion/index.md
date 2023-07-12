@@ -12,4 +12,6 @@ image:
 
 * Bridge champion
 
+  1﻿1/21/2020
+
 <!--EndFragment-->
