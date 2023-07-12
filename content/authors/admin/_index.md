@@ -4,10 +4,8 @@ role: Research Assisstan of Steta Key Laboratory of Tribology Tsinghua Universit
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Extreme Condition
-  - Lubrication and Wear
-  - Polymer Materials
-  - Engine lubrication
+  - Lubrication and wear under extreme conditions
+  - Polymer materials
 social:
   - icon: envelope
     icon_pack: fas
