@@ -82,5 +82,5 @@ Hello, This is Jiazhen "George" Chen(陈佳镇). Currently, I work as a research
 
 Before joining SKLT, I obtained my Bachelor degree in Marine Engineering and Bachelor degree in Laws from Wuhan University of technology where i worded with Prof.Zhiwei Guo and Dr.Xingxin Liang on how to improve the tribology of water-lubricated bearings.
 
-Outside of work, you will find me playing basketball/cycling/unlock
+Outside of work, you will find me playing basketball/cycling/bridge/unlock
 {style="text-align: justify;"}
