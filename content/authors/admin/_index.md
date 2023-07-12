@@ -1,12 +1,10 @@
 ---
 title: Jiazhen Chen 陈佳镇
-role: PhD Candidate of Mechanical Engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Research Assisstan of Steta Key Laboratory of Tribology Tsinghua University
+bio: My research interests include Lubrication and wear under extreme conditions.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Lubrication and wear under extreme conditions
+  - Polymer materials
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,7 +17,7 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=F31akL0AAAAJ&hl=zh-TW
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -30,24 +28,28 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Steta Key Laboratory of Tribology Tsinghua University
+    url: http://sklt.tsinghua.edu.cn/
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Engineering in Marine Engineering
+      institution: Wuhan University of Technology
+      year: 2023
+    - course: Bachelor of Laws in Laws
+      institution: Wuhan University of Technology
+      year: 2023
 superuser: true
 status:
   icon: ☕️
 last_name: Chen
 highlight_name: true
 first_name: Jiazhen
-email: ""
+email: chenjz@whut.edu.cn
 ---
 
-I am currently involved in a project titled 'Mechanisms in transfer film evolution of PTFE coating on mating surface texturing.' This project aims to investigate the transfer film evolution mechanisms of polytetrafluoroethylene (PTFE) coating on textured mating surfaces. The transfer film is a thin layer that transfers from the coating surface to the mating surface and plays a crucial role in reducing friction and wear. By gaining a deeper understanding of the interactions and influencing factors between PTFE coatings and textured mating surfaces, our research aims to reveal the mechanisms and behavior of transfer film evolution. We employ experimental methods, combining microscopic observations, material characterization techniques, surface analysis, and friction-wear testing, to study the effects of different texture features on transfer film formation and performance. Through this research, we hope to provide new insights and solutions for improving coating technologies and enhancing the wear resistance and lubrication performance of mating surfaces.
+Hello, This is Jiazhen "George" Chen(陈佳镇). Currently, I work as a research assistant at the State Key Laboratory of Tribology In Advanced Equipment at Tsinghua University. I am a member of Professor Dan Guo's research group. My research project aims to understand the impact of texture on the formation of PTFE transfer films. I am passionate about finding solutions to minimize energy loss due to friction and implementing improvements through the use of innovative materials.
+
+Before joining SKLT, I obtained my Bachelor degree in Marine Engineering and Bachelor degree in Laws from Wuhan University of technology where i worded with Prof.Zhiwei Guo and Dr.Xingxin Liang on how to improve the tribology of water-lubricated bearings.
+
+Outside of work, you will find me playing basketball/cycling/bridge/unlock
 {style="text-align: justify;"}
