@@ -163,11 +163,10 @@ sections:
       phone: 
         street: Qinghuayuan Subdistrict
         city: Beijing
-        region: CA
         country: China
         country_code: CHN
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       form:
         provider: netlify
