@@ -3,7 +3,7 @@ title: Water-lubricated bearings
 date: 2023-07-12T07:41:44.038Z
 draft: false
 featured: false
-tags:
+tags: Water-lubricated bearings
   - Water-lubricated bearings
 image:
   filename: qq图片20230712170259.jpg
