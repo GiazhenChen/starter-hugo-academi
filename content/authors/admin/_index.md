@@ -21,9 +21,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=F31akL0AAAAJ&hl=zh-TW
-  - icon: github
-    icon_pack: fab
-    link: /#contact
   - icon: linkedin
     icon_pack: fab
     link: /#contact
