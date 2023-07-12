@@ -10,6 +10,7 @@ authors:
   - Chengqing Yuan
 author_notes:
   - ""
+  - ""
   - Equal contribution
 doi: https://doi.org/10.1016/j.triboint.2022.107876
 abstract: Polymer materials have poor thermal conductivity and prone to aging at
