@@ -43,7 +43,7 @@ sections:
           location: Wuhan
           date_start: '2020-09-01'
           date_end: '2023-06-30'
-          description: The method of improving the performance of ship water-lubricated bearing is studied.
+          description: I have focused my research on studying methods to enhance the performance of ship water-lubricated bearings. Specifically, I have investigated various approaches aimed at improving the lubrication efficiency, reducing frictional losses, and enhancing the overall durability and reliability of these bearings in marine environments. My research has involved experimental investigations, numerical modeling, and analysis of the effects of different factors such as bearing design, material selection, water properties, and operating conditions. Additionally, I have explored the utilization of advanced technologies, such as surface modifications and additives, to optimize the performance of water-lubricated bearings. Through my work, I aim to contribute to the development of more efficient and environmentally-friendly bearing systems for marine applications.
     design:
       columns: '2'
   - block: collection
