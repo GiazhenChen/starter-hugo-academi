@@ -23,27 +23,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research assistan
+          company: State Key Laboratory of Tribology in Advanced Equipment
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: thu
+          location: Beijing
+          date_start: '2023-02-20'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Responsibilities include:I am currently involved in a project titled 'Mechanisms in transfer film evolution of PTFE coating on mating surface texturing.' This project aims to investigate the transfer film evolution mechanisms of polytetrafluoroethylene (PTFE) coating on textured mating surfaces. The transfer film is a thin layer that transfers from the coating surface to the mating surface and plays a crucial role in reducing friction and wear. By gaining a deeper understanding of the interactions and influencing factors between PTFE coatings and textured mating surfaces, our research aims to reveal the mechanisms and behavior of transfer film evolution. We employ experimental methods, combining microscopic observations, material characterization techniques, surface analysis, and friction-wear testing, to study the effects of different texture features on transfer film formation and performance. Through this research, we hope to provide new insights and solutions for improving coating technologies and enhancing the wear resistance and lubrication performance of mating surfaces.
+              * tribological testing
+              * mechanism analysis
+              * data processing
+        - title: Research assistan
+          company: National Engineering Research Center for Water Transport Safety
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: whut
+          location: Wuhan
+          date_start: '2020-09-01'
+          date_end: '2023-06-30'
+          description: I have focused my research on studying methods to enhance the performance of ship water-lubricated bearings. Specifically, I have investigated various approaches aimed at improving the lubrication efficiency, reducing frictional losses, and enhancing the overall durability and reliability of these bearings in marine environments. My research has involved experimental investigations, numerical modeling, and analysis of the effects of different factors such as bearing design, material selection, water properties, and operating conditions. Additionally, I have explored the utilization of advanced technologies, such as surface modifications and additives, to optimize the performance of water-lubricated bearings. Through my work, I aim to contribute to the development of more efficient and environmentally-friendly bearing systems for marine applications.In addition, I have also been involved in the development of a high-temperature and high-pressure cylinder liner piston ring test rig, where I was responsible for designing the sealing components and some parts of the power system.
     design:
       columns: '2'
   - block: accomplishments
@@ -129,9 +128,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Water-lubricated bearings
           tag: Deep Learning
-        - name: Other
+        - name: PTFE transfer film 
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -160,21 +159,13 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
+      email: chenjz@whut.edu.cn
+      phone: 18871021080
+        street: Qinghuayuan Subdistrict
         city: Beijing
         region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
+        country: China
+        country_code: CHN
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
