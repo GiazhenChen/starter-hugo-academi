@@ -10,8 +10,8 @@ image:
 ---
 <!--StartFragment-->
 
-磨损通常会导致材料粗糙度增加，但并非总是如此。磨损是指材料表面逐渐磨损和破坏的过程，这可能是由摩擦、磨损、刮擦或其他机制引起的。这些效应会增加材料表面的小凹痕、痕迹和破损，导致粗糙度增加。例如抛光也是磨损的一种，取决于材料本身的性质和磨损机理等因素。
+Wear usually results in an increase in the roughness of the material, but not always. Wear refers to the process of gradual wear and destruction of the surface of a material, which can be caused by friction, abrasion, scraping or other mechanisms. These effects increase the small dents, marks and breakage on the surface of the material, resulting in an increase in roughness. For example, polishing is also a kind of wear, which depends on the nature of the material itself and the wear mechanism and other factors.
 
-当两个表面相互摩擦时，较硬的材料通常会对较软的材料产生磨损。摩擦和压力会导致材料表面的微小颗粒被刮擦、磨损或破坏。这些过程可能会导致原本光滑的表面出现凹痕和不规则特征，从而增加粗糙度。当然，在其他情况下，例如磨料磨损机制，软材料常常会对硬材料造成损坏
+When two surfaces rub against each other, the harder material usually creates wear on the softer material. Friction and pressure can cause the tiny particles on the surface of the material to be scraped, abraded or destroyed. These processes can lead to dents and irregular features on an otherwise smooth surface, which in turn increases roughness. Of course, in other cases such as abrasive wear mechanisms, soft materials often cause damage to hard materials
 
 <!--EndFragment-->
