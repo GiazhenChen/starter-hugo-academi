@@ -160,7 +160,7 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: chenjz@whut.edu.cn
-      phone: 18871021080
+      phone: 1887102108
         street: Qinghuayuan Subdistrict
         city: Beijing
         region: CA
