@@ -12,7 +12,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
     label: Follow me on Twitter
     display:
       header: true
@@ -21,7 +21,7 @@ social:
     link: https://scholar.google.com/citations?user=F31akL0AAAAJ&hl=zh-TW
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: 
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
