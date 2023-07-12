@@ -31,7 +31,7 @@ sections:
           date_start: '2023-02-20'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Responsibilities include:I am currently involved in a project titled 'Mechanisms in transfer film evolution of PTFE coating on mating surface texturing.' This project aims to investigate the transfer film evolution mechanisms of polytetrafluoroethylene (PTFE) coating on textured mating surfaces. The transfer film is a thin layer that transfers from the coating surface to the mating surface and plays a crucial role in reducing friction and wear. By gaining a deeper understanding of the interactions and influencing factors between PTFE coatings and textured mating surfaces, our research aims to reveal the mechanisms and behavior of transfer film evolution. We employ experimental methods, combining microscopic observations, material characterization techniques, surface analysis, and friction-wear testing, to study the effects of different texture features on transfer film formation and performance. Through this research, we hope to provide new insights and solutions for improving coating technologies and enhancing the wear resistance and lubrication performance of mating surfaces.
 
               * tribological testing
               * mechanism analysis
@@ -44,6 +44,7 @@ sections:
           date_start: '2020-09-01'
           date_end: '2023-06-30'
           description:   I have focused my research on studying methods to enhance the performance of ship water-lubricated bearings. Specifically, I have investigated various approaches aimed at improving the lubrication efficiency, reducing frictional losses, and enhancing the overall durability and reliability of these bearings in marine environments. My research has involved experimental investigations, numerical modeling, and analysis of the effects of different factors such as bearing design, material selection, water properties, and operating conditions. Additionally, I have explored the utilization of advanced technologies, such as surface modifications and additives, to optimize the performance of water-lubricated bearings. Through my work, I aim to contribute to the development of more efficient and environmentally-friendly bearing systems for marine applications.
+    In addition, I have also been involved in the development of a high-temperature and high-pressure cylinder liner piston ring test rig, where I was responsible for designing the sealing components and some parts of the power system.
     design:
       columns: '2'
   - block: collection
