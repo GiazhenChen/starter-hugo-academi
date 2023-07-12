@@ -10,7 +10,9 @@ authors:
   - Xuefei Li
   - Chengqing Yuan
 author_notes:
-  - ，Correspondingauthor，Correspondingauthor
+  - ""
+  - Corresponding author
+  - Correspondingauthor
 doi: https://doi.org/10.1016/j.triboint.2023.108714
 publication: Tribology International Volume 187, September 2023, 108714
 abstract: Water-lubricated bearings are subject to abrasive wear, leading to
