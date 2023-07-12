@@ -3,6 +3,11 @@ title: Development of gradient structural composite for improving tribological
   performance of PU material in water-lubricated bearings
 publication_types:
   - "2"
+authors:
+  - Jiazhen Chen
+  - Zhiwei Guo
+  - Xuefei Li
+  - Chengqing Yuan
 doi: https://doi.org/10.1016/j.triboint.2022.107876
 abstract: Polymer materials have poor thermal conductivity and prone to aging at
   high temperatures. Severe wear occurs at material friction interfaces at high
