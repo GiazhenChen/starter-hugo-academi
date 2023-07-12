@@ -1,5 +1,5 @@
 ---
-title: test
+title: Wear
 date: 2023-07-12T12:12:52.053Z
 draft: false
 featured: false
