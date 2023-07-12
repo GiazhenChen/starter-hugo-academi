@@ -90,7 +90,7 @@ sections:
         - name: All
           tag: '*'
         - name: Water-lubricated bearings
-          tag: Deep Learning
+          tag: Water-lubricated bearings
         - name: PTFE transfer film 
           tag: Demo
     design:
