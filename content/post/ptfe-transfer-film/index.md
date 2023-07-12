@@ -1,6 +1,6 @@
 ---
 title: PTFE transfer film
-date: 2023-07-12T09:35:05.851Z
+date: 2023-07-12T09:37:05.519Z
 draft: false
 featured: false
 image:
