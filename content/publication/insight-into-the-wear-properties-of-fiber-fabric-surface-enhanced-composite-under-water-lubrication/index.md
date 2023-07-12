@@ -27,7 +27,7 @@ abstract: Water-lubricated bearings are subject to abrasive wear, leading to
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 1.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-07-12T13:01:49.793Z
