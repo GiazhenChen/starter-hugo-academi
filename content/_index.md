@@ -90,9 +90,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Research on tribological properties of water-lubricated bearings
+        - name: Water-lubricated bearings
           tag: Deep Learning
-        - name: Mechanisms in transfer film evolution of PTFE coating on mating surface texturing
+        - name: PTFE transfer film 
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
