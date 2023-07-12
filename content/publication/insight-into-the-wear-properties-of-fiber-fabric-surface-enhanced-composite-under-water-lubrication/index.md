@@ -26,6 +26,8 @@ abstract: Water-lubricated bearings are subject to abrasive wear, leading to
   certain amount of time and exhibit outstanding frictional performance.
 draft: false
 featured: false
+tags:
+  - Source Themes
 image:
   filename: 1.jpg
   focal_point: Smart
