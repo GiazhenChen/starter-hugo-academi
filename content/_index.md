@@ -121,7 +121,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: 1284682931@qq.com
+      email: chenjz@whut.edu.cn
       phone: 18871021080
       address:
         street: Qinghuayuan Subdistrict
