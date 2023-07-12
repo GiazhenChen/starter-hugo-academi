@@ -6,7 +6,7 @@ featured: false
 tags:
   - Water-lubricated bearings
 image:
-  filename: featured
+  filename: qq图片20230712170259.jpg
   focal_point: Smart
   preview_only: false
 ---
