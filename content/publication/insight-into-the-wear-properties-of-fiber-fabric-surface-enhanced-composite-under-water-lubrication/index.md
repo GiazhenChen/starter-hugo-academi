@@ -30,5 +30,8 @@ image:
   filename: 1.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Tribology
+    International**](https://www.sciencedirect.com/science/article/pii/S0301679\
+    X23005029#fig0010)"
 date: 2023-07-12T13:01:49.793Z
 ---
