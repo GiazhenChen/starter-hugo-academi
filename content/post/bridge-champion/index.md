@@ -1,10 +1,10 @@
 ---
 title: Bridge champion
-date: 2021-09-01T05:19:41.098Z
+date: 2020-11-21T05:29:11.242Z
 draft: false
 featured: false
 image:
-  filename: 活动回执.jpg
+  filename: a82f5de892fe96f4d753de671edc9d29.jpg
   focal_point: Smart
   preview_only: false
 ---
