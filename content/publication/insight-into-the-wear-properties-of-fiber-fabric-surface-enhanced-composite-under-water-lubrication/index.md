@@ -28,6 +28,7 @@ draft: false
 featured: false
 tags:
   - Source Themes
+slides: example
 image:
   filename: 1.jpg
   focal_point: Smart
