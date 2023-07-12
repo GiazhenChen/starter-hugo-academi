@@ -160,7 +160,7 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: chenjz@whut.edu.cn
-        street: Qinghuayuan Subdistrict
+      street: Qinghuayuan Subdistrict
         city: Beijing
         region: CA
         country: China
