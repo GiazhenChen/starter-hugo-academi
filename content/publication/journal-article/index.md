@@ -42,10 +42,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-  filename: 1-s2.0-s0301679x23005029-gr2_lrg.jpg
-date: 2023-06-17T00:00:00Z
+  filename: ""
+date: 2023-06-17T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
