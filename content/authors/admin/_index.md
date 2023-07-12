@@ -1,8 +1,7 @@
 ---
 title: Jiazhen Chen 陈佳镇
 role: Research Assisstan of Steta Key Laboratory of Tribology Tsinghua University
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Lubrication and wear under extreme conditions.
 interests:
   - Lubrication and wear under extreme conditions
   - Polymer materials
