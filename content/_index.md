@@ -166,7 +166,7 @@ sections:
         country: China
         country_code: CHN
       # Automatically link email and phone or display as text?
-      autolink: false
+      autolink: true
       # Email form provider
       form:
         provider: netlify
