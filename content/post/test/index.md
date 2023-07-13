@@ -8,7 +8,6 @@ draft: false
 featured: false
 authors:
   - admin
-  - 吳恩達
 tags:
   - Academic
   - 开源
