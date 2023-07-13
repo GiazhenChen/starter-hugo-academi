@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research assistan
+        - title: Research assistant
           company: State Key Laboratory of Tribology in Advanced Equipment
           company_url: ''
           company_logo: thu
@@ -35,7 +35,7 @@ sections:
               * tribological testing
               * mechanism analysis
               * data processing
-        - title: Research assistan
+        - title: Research assistant
           company: National Engineering Research Center for Water Transport Safety
           company_url: ''
           company_logo: whut
