@@ -6,7 +6,7 @@ featured: false
 tags:
   - PTFE transfer film
 image:
-  filename: featured
+  filename: 2.jpg
   focal_point: Smart
   preview_only: false
 ---
