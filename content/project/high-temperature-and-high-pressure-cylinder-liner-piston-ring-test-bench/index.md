@@ -1,6 +1,6 @@
 ---
 title: High temperature and high pressure cylinder liner piston ring test bench
-date: 2023-07-13T06:52:34.480Z
+date: 2022-11-08T06:52:34.480Z
 draft: false
 featured: false
 image:
