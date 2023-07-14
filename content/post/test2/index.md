@@ -5,8 +5,11 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - Academic
+  - ""
 categories:
-  - a，b
+  - Tribology
 image:
   filename: qq图片20230712155827.png
   focal_point: Smart
