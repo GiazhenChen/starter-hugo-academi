@@ -26,8 +26,6 @@ Through the utilization of simulation and analysis tools, we will conduct an in-
 
 **The objectives of this project are as follows:**
 
-
-
 1. To enhance the lifespan of water-lubricated bearings to be on par with traditional oil-lubricated bearings.
 2. To improve the thermal conductivity of water-lubricated bearing materials for efficient heat dissipation and temperature reduction.
 3. To enhance the wear resistance of water-lubricated bearing materials for reduced wear and extended lifespan.
@@ -36,7 +34,7 @@ Through the utilization of simulation and analysis tools, we will conduct an in-
 Methods and Procedures: We will employ the following methods to investigate the performance of water-lubricated stern bearings:
 
 1. Embedding high thermal conductivity metal wires: We will embed high thermal conductivity metal wires into the cast polyurethane material to enhance its thermal conductivity. This will facilitate efficient heat transfer, resulting in reduced bearing temperature, minimized heat accumulation, and diminished thermal stress.
-2. Surface coating with high-strength polymeric material: We will apply a surface coating of high-strength polymeric material with exceptional tensile properties to enhance the wear resistance of the material. This will help reduce friction and wear, thus extending the lifespan of the bearings.
+2. Surface reinforcement with high-strength polymeric material: We will reinforce the material by placing a layer of high-strength polymeric fiber fabric beneath the surface, which acts as a strengthening element. This approach cannot be referred to as a surface coating but rather as surface reinforcement. It enhances the material's strength and wear resistance, effectively reducing friction and wear, thus extending the lifespan of the bearings.
 3. Simulation and analysis: We will utilize computer simulation and analysis tools to study the impact of these improvement measures on bearing performance. By simulating lubrication performance, heat conduction, and wear behavior, we will gain a comprehensive understanding of the underlying mechanisms.
 
 **Throughout the project, we anticipate the following outcomes and findings:**
