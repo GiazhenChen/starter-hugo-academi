@@ -24,7 +24,7 @@ Additionally, we also address the enhancement of the material's wear resistance 
 
 Through the utilization of simulation and analysis tools, we will conduct an in-depth study on the impact of these improvement measures on bearing performance, unraveling the underlying physical and chemical mechanisms. Our goal is to improve the lifespan of water-lubricated stern bearings, reduce the frequency of ship maintenance and associated costs, and promote the development and application of water-lubricated bearing technology.
 
-**Objectives and Problem Statement: The objectives of this project are as follows:**
+**The objectives of this project are as follows:**
 
 
 
