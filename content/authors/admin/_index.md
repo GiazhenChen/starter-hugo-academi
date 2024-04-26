@@ -40,7 +40,7 @@ education:
       institution: Wuhan University of Technology
       year: 2023
     - institution: University of California，Merced
-      course: Ph.D
+      course: PhD student in mechanical engineering
 superuser: true
 status:
   icon: ☕️
