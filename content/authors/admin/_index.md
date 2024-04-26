@@ -39,6 +39,8 @@ education:
     - course: Bachelor of Laws in Laws
       institution: Wuhan University of Technology
       year: 2023
+    - institution: University of California，Merced
+      course: Ph.D
 superuser: true
 status:
   icon: ☕️
