@@ -47,7 +47,7 @@ status:
 last_name: Chen
 highlight_name: true
 first_name: Jiazhen
-email: chenjz@whut.edu.cn
+email: jiazhenchen2@ucmerced.edu
 ---
 Hello, This is Jiazhen "George" Chen(陈佳镇). Currently, I work as a research assistant at [the State Key Laboratory of Tribology In Advanced Equipment](http://sklt.tsinghua.edu.cn/EN2022/Home.htm) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am a member of [Prof.Dan Guo](https://me.tsinghua.edu.cn/en/info/1048/1310.htm)'s research group. My research project aims to understand the impact of texture on the formation of PTFE transfer films. I am passionate about finding solutions to minimize energy loss due to friction and implementing improvements through the use of innovative materials.
 
