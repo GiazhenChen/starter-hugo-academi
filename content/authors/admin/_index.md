@@ -31,6 +31,8 @@ social:
 organizations:
   - name: Steta Key Laboratory of Tribology Tsinghua University
     url: http://sklt.tsinghua.edu.cn/EN2022/Home.htm
+  - name: Martini Lab
+    url: https://faculty.ucmerced.edu/amartini/team.shtml
 education:
   courses:
     - course: Bachelor of Engineering in Marine Engineering
