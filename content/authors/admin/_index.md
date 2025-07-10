@@ -24,7 +24,7 @@ social:
     link: uploads/resume.pdf
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jiazhen-chen-456a5a32a/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
