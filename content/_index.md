@@ -123,7 +123,7 @@ sections:
       email: jiazhenchen2@ucmerced.edu
       address:
         street: 5200 Lake Rd
-        city: Merced，California 95343
+        city: Merced, California 95343
         country: United States
         country_code: US
       # Automatically link email and phone or display as text?
