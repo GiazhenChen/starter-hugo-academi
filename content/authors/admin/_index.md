@@ -1,5 +1,5 @@
 ---
-title: Jiazhen Chen 佳镇陈
+title: Jiazhen Chen 陈佳镇
 role: PhD student in mechanical engineering  University of California，Merced
 avatar_filename: avatar.png
 bio: My research interests include Lubrication and wear under extreme conditions.
