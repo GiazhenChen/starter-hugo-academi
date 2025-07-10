@@ -120,12 +120,12 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: chenjz@whut.edu.cn
+      email: jiazhenchen2@ucmerced.edu
       address:
-        street: Qinghuayuan Subdistrict
-        city: Beijing
-        country: China
-        country_code: CHN
+        street: 5200 Lake Rd
+        city: Merced，California 95343
+        country: United States
+        country_code: US
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
