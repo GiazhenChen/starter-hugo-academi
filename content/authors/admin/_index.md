@@ -1,6 +1,6 @@
 ---
 title: Jiazhen Chen 佳镇陈
-role: Research Assistant of Steta Key Laboratory of Tribology Tsinghua University
+role: PhD student in mechanical engineering  University of California，Merced
 avatar_filename: avatar.png
 bio: My research interests include Lubrication and wear under extreme conditions.
 interests:
