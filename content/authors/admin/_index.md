@@ -1,5 +1,5 @@
 ---
-title: Jiazhen Chen 陈佳镇
+title: Jiazhen Chen 佳镇陈
 role: Research Assistant of Steta Key Laboratory of Tribology Tsinghua University
 avatar_filename: avatar.png
 bio: My research interests include Lubrication and wear under extreme conditions.
