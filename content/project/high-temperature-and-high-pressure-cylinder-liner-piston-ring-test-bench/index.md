@@ -6,7 +6,7 @@ featured: false
 image:
   filename: qq图片20230714222018.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 **Project Title: Development of a Test Rig for Performance Verification of Piston Ring-Cylinder Liner in Simulated Gas-Fueled Environment**
 
