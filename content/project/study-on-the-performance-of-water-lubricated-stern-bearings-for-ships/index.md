@@ -1,6 +1,6 @@
 ---
 title: Study on the Performance of Water-Lubricated Stern Bearings for Ships
-date: 2025-10-03T23:35:16.234Z
+date: 2023-07-14T23:35:16.234Z
 draft: false
 featured: false
 tags:
