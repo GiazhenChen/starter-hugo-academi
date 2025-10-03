@@ -1,6 +1,7 @@
 ---
 title: Water-lubricate bearing
 date: 2023-07-14T08:11:18.504Z
+lastmod: 2023-07-14   # 加上这一行
 draft: false
 featured: false
 tags:
