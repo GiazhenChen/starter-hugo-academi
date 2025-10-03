@@ -6,8 +6,11 @@ bio: My research interests include lubrication, wear, extreme-condition
   tribology, additive manufacturing, advanced manufacturing, and surface
   engineering.
 interests:
-  - Lubrication and wear under extreme conditions
-  - Polymer materials
+  - Tribology
+  - Additive Manufacturing
+  - Surface Engineering
+  - Polymers
+  - High-Performance Materials
 social:
   - icon: envelope
     icon_pack: fas
