@@ -62,5 +62,5 @@ Previously, I worked as a research assistant at the [the State Key Laboratory of
 
 Before joining [SKLT](http://sklt.tsinghua.edu.cn/EN2022/Home.htm), I obtained my Bachelor degree in Marine Engineering and Bachelor degree in Laws from [Wuhan University of technology](http://english.whut.edu.cn/) where I worded with [Prof.Zhiwei Guo](https://stle.whut.edu.cn/xygk/szdw/jgml/202109/t20210913_851370.shtml#) and [Dr.Xingxin Liang](https://naoep.whut.edu.cn/szdw/jsml/202109/t20210912_851100.shtml) on how to improve the tribology performance of water-lubricated bearings.
 
-Outside of work, you will find me playing basketball/cycling/bridge/unlock
+Outside of work, you will find me playing basketball or working on cars in the garage.
 {style="text-align: justify;"}
