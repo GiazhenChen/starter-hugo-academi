@@ -3,6 +3,8 @@ title: Water-lubricate bearing
 date: 2025-10-03T08:11:18.504Z
 draft: false
 featured: false
+tags:
+  - "1"
 image:
   filename: 1.jpg
   focal_point: Smart
