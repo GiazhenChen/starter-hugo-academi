@@ -9,7 +9,7 @@ interests:
   - Tribology
   - Additive Manufacturing
   - Surface Engineering
-  - Polymers
+  - Advanced Manufacturing
   - High-Performance Materials
 social:
   - icon: envelope
