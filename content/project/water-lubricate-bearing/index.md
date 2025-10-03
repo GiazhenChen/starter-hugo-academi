@@ -1,6 +1,6 @@
 ---
 title: Water-lubricate bearing
-date: 2025-10-03T08:11:18.504Z
+date: 2022-10-03T08:11:18.504Z
 draft: false
 featured: false
 tags:
