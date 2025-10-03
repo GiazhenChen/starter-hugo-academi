@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: acb
+title: Jiazhen Chen
 date: 2022-10-24
 type: landing
 
@@ -29,7 +29,7 @@ sections:
           company_logo: thu
           location: Beijing
           date_start: '2023-02-20'
-          date_end: ''
+          date_end: '2025-06-30'
           description: |2-
               Responsibilities include:I am currently involved in a project titled 'Mechanisms in transfer film evolution of PTFE coating on mating surface texturing.' This project aims to investigate the transfer film evolution mechanisms of polytetrafluoroethylene (PTFE) coating on textured mating surfaces. The transfer film is a thin layer that transfers from the coating surface to the mating surface and plays a crucial role in reducing friction and wear. By gaining a deeper understanding of the interactions and influencing factors between PTFE coatings and textured mating surfaces, our research aims to reveal the mechanisms and behavior of transfer film evolution. We employ experimental methods, combining microscopic observations, material characterization techniques, surface analysis, and friction-wear testing, to study the effects of different texture features on transfer film formation and performance. Through this research, we hope to provide new insights and solutions for improving coating technologies and enhancing the wear resistance and lubrication performance of mating surfaces.
               * tribological testing
