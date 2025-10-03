@@ -3,6 +3,8 @@ title: Mechanism of PTFE Transfer Film Formation
 date: 2025-10-03T22:53:25.745Z
 draft: false
 featured: false
+tags:
+  - Tribology
 image:
   filename: 719481917f9e72d00321b92e86c697d2.png
   focal_point: Smart
