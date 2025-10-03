@@ -2,7 +2,9 @@
 title: Jiazhen Chen 陈佳镇
 role: PhD student in mechanical engineering  University of California，Merced
 avatar_filename: avatar.png
-bio: My research interests include Lubrication and wear under extreme conditions.
+bio: My research interests include lubrication, wear, extreme-condition
+  tribology, additive manufacturing, advanced manufacturing, and surface
+  engineering.
 interests:
   - Lubrication and wear under extreme conditions
   - Polymer materials
