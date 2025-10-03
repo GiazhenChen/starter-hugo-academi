@@ -92,7 +92,9 @@ sections:
         - name: Water-lubricated bearings
           tag: Water-lubricated bearings
         - name: PTFE transfer film 
-          tag: PTFE transfer film 
+          tag: PTFE transfer film
+        - name: Additive Manufacturing         # 新按钮显示名
+          tag: Additive Manufacturing          # 新按钮对应的标签值（精确匹配）
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
