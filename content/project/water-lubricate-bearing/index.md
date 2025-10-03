@@ -4,7 +4,7 @@ date: 2022-10-03T08:11:18.504Z
 draft: false
 featured: false
 tags:
-  - abc
+  - Water-lubricated bearings
 image:
   filename: 1.jpg
   focal_point: Smart
