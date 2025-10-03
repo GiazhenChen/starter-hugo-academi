@@ -3,6 +3,8 @@ title: Study on the Performance of Water-Lubricated Stern Bearings for Ships
 date: 2025-10-03T23:35:16.234Z
 draft: false
 featured: false
+tags:
+  - Tribology
 image:
   filename: featured
   focal_point: Smart
