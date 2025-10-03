@@ -6,7 +6,7 @@ featured: false
 tags:
   - PTFE transfer film
 image:
-  filename: 2.jpg
+  filename: ptfe磨损机理图.png
   focal_point: Smart
   preview_only: false
 ---
