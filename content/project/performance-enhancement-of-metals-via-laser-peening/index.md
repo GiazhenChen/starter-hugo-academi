@@ -7,7 +7,7 @@ tags: [High-Performance Materials]
 image:
   filename: 激光喷丸试样表面形貌图.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 ### Project Description
 <img src="激光喷丸试样表面形貌图.png" alt="Laser peening setup" style="width:100%;height:auto;">
