@@ -10,7 +10,8 @@ image:
   preview_only: false
 ---
 ### Project Description
-<img src="/uploads/laser-peening.png" alt="Laser peening setup" style="width:100%;height:auto;">
+<img src="激光喷丸试样表面形貌图.png" alt="Laser peening setup" style="width:100%;height:auto;">
+
 
 Our research explores how laser peening can improve the strength, fatigue resistance, and surface properties of metals.
 
