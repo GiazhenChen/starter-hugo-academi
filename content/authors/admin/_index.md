@@ -34,6 +34,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
+  - name: National Engineering Research Center for Water Transport Safety
+    url: https://wts.whut.edu.cn/
   - name: Steta Key Laboratory of Tribology Tsinghua University
     url: http://sklt.tsinghua.edu.cn/EN2022/Home.htm
   - name: Martini Lab
