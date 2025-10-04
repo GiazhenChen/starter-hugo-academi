@@ -93,9 +93,9 @@ sections:
           tag: Tribology
         - name: Surface Engineering
           tag: Surface Engineering
-        - name: Additive Manufacturing         # 新按钮显示名
-          tag: Additive Manufacturing          # 新按钮对应的标签值（精确匹配）
-        - name: High-Performance Materials        # 新按钮显示名
+        - name: Additive Manufacturing        
+          tag: Additive Manufacturing          
+        - name: High-Performance Materials        
           tag: High-Performance Materials
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
