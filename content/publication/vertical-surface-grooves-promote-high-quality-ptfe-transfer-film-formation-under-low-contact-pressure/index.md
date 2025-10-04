@@ -4,10 +4,10 @@ title: Vertical Surface Grooves Promote High-Quality PTFE Transfer Film
 publication_types:
   - "0"
 authors:
-  - Jiazhen Chen 1
-  - Yichun Xia 1
-  - Noriyuki Hayashi2
-  - Dan Guo1*
+  - Jiazhen Chen
+  - Yichun Xia
+  - Noriyuki Hayashi
+  - Dan Guo*
 draft: false
 featured: false
 image:
