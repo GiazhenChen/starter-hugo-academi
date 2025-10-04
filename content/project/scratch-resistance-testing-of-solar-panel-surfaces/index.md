@@ -6,7 +6,7 @@ featured: false
 tags:
   - Surface Engineering
 image:
-  filename: 太阳能板磨损测试仪器图.jpg
+  filename: 太阳能板磨损测试设备图.png
   focal_point: Smart
   preview_only: false
 ---
