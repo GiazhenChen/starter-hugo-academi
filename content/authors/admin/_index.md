@@ -48,6 +48,7 @@ education:
       year: 2023
     - institution: University of California，Merced
       course: Ms student in mechanical engineering
+      year: 2026
 superuser: true
 status:
   icon: ☕️
