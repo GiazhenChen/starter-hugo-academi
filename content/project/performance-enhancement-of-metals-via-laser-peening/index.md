@@ -10,3 +10,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+### Project Description
+
+Our research explores how laser peening can improve the strength, fatigue resistance, and surface properties of metals.
+
+### Video Demonstration
+
+{{< youtube ___hCW_EPPg >}}
+
+Further details:
+
+- Methodology  
+- Experimental setup  
+- Key findings  
