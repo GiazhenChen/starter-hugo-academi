@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags: [High-Performance Materials]
 image:
-  filename: a2b455215ca8ca53a5edcc2844b72227.png
+  filename: 激光喷丸试样表面形貌图.png
   focal_point: Smart
   preview_only: false
 ---
