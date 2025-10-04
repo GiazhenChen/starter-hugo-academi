@@ -2,7 +2,7 @@
 title: Vertical Surface Grooves Promote High-Quality PTFE Transfer Film
   Formation Under Low Contact Pressure
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Jiazhen Chen
   - Yichun Xia
