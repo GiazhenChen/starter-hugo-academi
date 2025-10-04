@@ -3,7 +3,8 @@ title: Performance Enhancement of Metals via Laser Peening
 date: 2024-10-03
 draft: false
 featured: false
-tags: [High-Performance Materials]
+tags:
+  - High-Performance Materials
 image:
   filename: 激光喷丸试样表面形貌图.png
   focal_point: Smart
