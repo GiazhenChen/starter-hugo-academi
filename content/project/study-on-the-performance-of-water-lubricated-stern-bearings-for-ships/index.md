@@ -6,7 +6,7 @@ featured: false
 tags:
   - Tribology
 image:
-  filename: featured
+  filename: a8a19d24ae210c33b01aa2761b7d8202.png
   focal_point: Smart
   preview_only: false
 ---
