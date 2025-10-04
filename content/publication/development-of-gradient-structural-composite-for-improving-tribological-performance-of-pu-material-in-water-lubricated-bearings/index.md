@@ -8,7 +8,9 @@ authors:
   - Zhiwei Guo
   - Xuefei Li
   - Chengqing Yuan
-author_notes: []
+author_notes:
+  - ""
+  - Corresponding author
 doi: https://doi.org/10.1016/j.triboint.2022.107876
 publication: Tribology International Volume 176, December 2022, 107876
 abstract: Polymer materials have poor thermal conductivity and prone to aging at
