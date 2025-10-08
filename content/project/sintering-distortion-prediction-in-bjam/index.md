@@ -6,7 +6,7 @@ featured: false
 tags:
   - Additive Manufacturing
 image:
-  filename: featured
+  filename: 300°和400°.jpg
   focal_point: Smart
   preview_only: false
 ---
