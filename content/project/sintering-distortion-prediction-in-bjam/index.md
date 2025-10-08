@@ -6,7 +6,7 @@ featured: false
 tags:
   - Additive Manufacturing
 image:
-  filename: 300°和400°.jpg
+  filename: 跌落实验结果.jpg
   focal_point: Smart
   preview_only: false
 ---
